@@ -1,0 +1,12 @@
+# ninja log v6
+6	3684	7668720004536657	viba-20242-proje-13_autogen/timestamp	4460a221bf9118db
+6	3684	7668720004536657	viba-20242-proje-13_autogen/mocs_compilation.cpp	4460a221bf9118db
+6	3684	7668720004536657	C:/Users/AhmetMahirDemirelli/Desktop/viba-20242-proje-13/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/viba-20242-proje-13_autogen/timestamp	4460a221bf9118db
+6	3684	7668720004536657	C:/Users/AhmetMahirDemirelli/Desktop/viba-20242-proje-13/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/viba-20242-proje-13_autogen/mocs_compilation.cpp	4460a221bf9118db
+3689	3862	7668720006879539	viba-20242-proje-13_autogen/EWIEGA46WW/qrc_resources.cpp	c0e91c543fdd03cf
+3689	3862	7668720006879539	C:/Users/AhmetMahirDemirelli/Desktop/viba-20242-proje-13/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/viba-20242-proje-13_autogen/EWIEGA46WW/qrc_resources.cpp	c0e91c543fdd03cf
+3870	3936	7668720007049578	CMakeFiles/viba-20242-proje-13.dir/viba-20242-proje-13_autogen/EWIEGA46WW/qrc_resources.cpp.obj	9c58110af30653d0
+3865	6014	7668720006999599	CMakeFiles/viba-20242-proje-13.dir/main.cpp.obj	9140f0ca66d0134e
+3862	6092	7668720006969586	CMakeFiles/viba-20242-proje-13.dir/viba-20242-proje-13_autogen/mocs_compilation.cpp.obj	402439fd222c2ad2
+3867	6999	7668720007029617	CMakeFiles/viba-20242-proje-13.dir/mainwindow.cpp.obj	e5bca249e7a5b5fb
+7000	7287	7668720038344652	viba-20242-proje-13.exe	8dcde7d694f13e1
