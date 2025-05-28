@@ -13,5 +13,10 @@
 - QtCreater
 - C++
 
+## Ekran Görüntüleri
+![frames](images/frames.png)
+![simulation](images/simulation.png)
+![done](images/done.png)
+
 ##
 - Not: 75
