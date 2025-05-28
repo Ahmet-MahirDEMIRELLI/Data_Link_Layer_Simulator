@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>receiver.jpg</file>
+        <file>sender.jpg</file>
+    </qresource>
+</RCC>
